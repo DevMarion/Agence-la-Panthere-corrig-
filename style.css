@@ -366,6 +366,10 @@ a:hover {
     font-style:italic;
 }
 
+.contact {
+    background: #2B375F;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -834,7 +838,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
